@@ -2,7 +2,7 @@ import os
 import csv
 
 # Set the directory path
-parent_directory = "A:/io/Projects/riffusionwedgeewoo/Training-Data/dfwedgeewoobackup"
+parent_directory = "filepathtodir"
 
 
 
